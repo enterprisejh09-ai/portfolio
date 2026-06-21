@@ -1,0 +1,137 @@
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+}
+
+body{
+background:#111;
+color:#fff;
+font-family:Arial, sans-serif;
+}
+
+.navbar{
+background:#111;
+padding:15px 0;
+}
+
+.logo{
+font-size:35px;
+font-weight:bold;
+color:#39e5ff !important;
+}
+
+.btn-resume{
+background:#00d9ff;
+padding:3px 10px !important;
+border-radius:3px;
+color:#fff !important;
+}
+
+.hero{
+padding-top:120px;
+padding-bottom:80px;
+}
+
+.hero h1{
+font-size:55px;
+font-weight:bold;
+line-height:1;
+}
+
+.hero h1 span{
+color:#00e5ff;
+}
+
+.position{
+color:#bdbdbd;
+margin-top:10px;
+}
+
+.about{
+max-width:550px;
+font-size:14px;
+margin-top:15px;
+color:#d1d1d1;
+}
+
+.profile-img{
+width:220px;
+height:280px;
+object-fit:cover;
+border:2px solid #888;
+}
+
+.social a{
+color:#00e5ff;
+margin-right:15px;
+text-decoration:none;
+}
+
+.section-title{
+text-align:center;
+margin-bottom:40px;
+font-weight:bold;
+}
+
+.project-card{
+border:1px solid #333;
+padding:15px;
+margin-bottom:25px;
+}
+
+.project-card h4{
+color:#00e5ff;
+}
+
+.tech span,
+.skill-tags span{
+display:inline-block;
+background:#2c2c2c;
+padding:4px 10px;
+margin:3px;
+font-size:12px;
+border-radius:2px;
+}
+
+.education h2{
+color:#00e5ff;
+font-weight:bold;
+}
+
+.contact-form{
+width:400px;
+margin:auto;
+border:1px solid #444;
+padding:25px;
+}
+
+.contact-form input,
+.contact-form textarea{
+width:100%;
+background:#222;
+border:1px solid #444;
+padding:10px;
+margin-bottom:10px;
+color:white;
+}
+
+.contact-form button{
+width:100%;
+border:none;
+padding:10px;
+background:#5e6972;
+color:white;
+}
+
+footer{
+text-align:center;
+padding:30px;
+border-top:1px solid #222;
+}
+
+.social-footer a{
+color:#00e5ff;
+margin:0 10px;
+text-decoration:none;
+}
